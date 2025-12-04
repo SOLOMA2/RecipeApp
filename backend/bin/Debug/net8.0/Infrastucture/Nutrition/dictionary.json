@@ -1,0 +1,594 @@
+[
+  {
+    "id": "wheat-flour",
+    "titleRu": "Мука пшеничная",
+    "titleEn": "Wheat flour",
+    "aliases": [
+      "мука",
+      "мука пшеничная",
+      "пшеничная мука",
+      "мука высший сорт",
+      "мука в/с",
+      "wheat flour",
+      "flour",
+      "white flour"
+    ],
+    "variants": [
+      {
+        "name": "Мука пшеничная высший сорт",
+        "calories": 340,
+        "protein": 10.3,
+        "fat": 1.1,
+        "carbohydrates": 72
+      },
+      {
+        "name": "Мука цельнозерновая",
+        "calories": 329,
+        "protein": 13.2,
+        "fat": 2.5,
+        "carbohydrates": 61.5
+      },
+      {
+        "name": "Мука пшеничная 1 сорт",
+        "calories": 334,
+        "protein": 11.1,
+        "fat": 1.3,
+        "carbohydrates": 70.6
+      }
+    ]
+  },
+  {
+    "id": "apple",
+    "titleRu": "Яблоко",
+    "titleEn": "Apple",
+    "aliases": [
+      "яблоко",
+      "яблоки",
+      "яблочко",
+      "apple",
+      "green apple",
+      "red apple",
+      "gala apple"
+    ],
+    "variants": [
+      {
+        "name": "Яблоко зеленое",
+        "calories": 52,
+        "protein": 0.3,
+        "fat": 0.2,
+        "carbohydrates": 14
+      },
+      {
+        "name": "Яблоко красное",
+        "calories": 57,
+        "protein": 0.3,
+        "fat": 0.2,
+        "carbohydrates": 15
+      },
+      {
+        "name": "Яблоко печеное",
+        "calories": 47,
+        "protein": 0.4,
+        "fat": 0.4,
+        "carbohydrates": 11.8
+      }
+    ]
+  },
+  {
+    "id": "sugar",
+    "titleRu": "Сахар",
+    "titleEn": "Sugar",
+    "aliases": [
+      "сахар",
+      "сахар-песок",
+      "сахар белый",
+      "sugar",
+      "white sugar",
+      "granulated sugar"
+    ],
+    "variants": [
+      {
+        "name": "Сахар-песок",
+        "calories": 387,
+        "protein": 0,
+        "fat": 0,
+        "carbohydrates": 99.8
+      },
+      {
+        "name": "Сахар коричневый",
+        "calories": 380,
+        "protein": 0.12,
+        "fat": 0,
+        "carbohydrates": 98.09
+      }
+    ]
+  },
+  {
+    "id": "chicken-breast",
+    "titleRu": "Куриная грудка",
+    "titleEn": "Chicken breast",
+    "aliases": [
+      "куриная грудка",
+      "курица филе",
+      "куриное филе",
+      "грудка куриная",
+      "chicken breast",
+      "chicken fillet",
+      "chicken"
+    ],
+    "variants": [
+      {
+        "name": "Грудка отварная без кожи",
+        "calories": 165,
+        "protein": 31,
+        "fat": 3.6,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Грудка запеченная",
+        "calories": 187,
+        "protein": 29,
+        "fat": 7,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Грудка жареная",
+        "calories": 197,
+        "protein": 29.8,
+        "fat": 7.4,
+        "carbohydrates": 0.5
+      },
+      {
+        "name": "Грудка сырая",
+        "calories": 113,
+        "protein": 23.6,
+        "fat": 1.9,
+        "carbohydrates": 0.4
+      }
+    ]
+  },
+  {
+    "id": "milk",
+    "titleRu": "Молоко",
+    "titleEn": "Milk",
+    "aliases": [
+      "молоко",
+      "молочко",
+      "milk",
+      "молоко 2.5%",
+      "молоко 3.2%",
+      "молоко цельное"
+    ],
+    "variants": [
+      {
+        "name": "Молоко 2.5%",
+        "calories": 52,
+        "protein": 3,
+        "fat": 2.5,
+        "carbohydrates": 4.7
+      },
+      {
+        "name": "Молоко 3.2%",
+        "calories": 60,
+        "protein": 2.9,
+        "fat": 3.2,
+        "carbohydrates": 4.8
+      },
+      {
+        "name": "Молоко цельное 3.5%",
+        "calories": 64,
+        "protein": 3.2,
+        "fat": 3.5,
+        "carbohydrates": 4.8
+      },
+      {
+        "name": "Молоко обезжиренное 0.5%",
+        "calories": 35,
+        "protein": 3,
+        "fat": 0.5,
+        "carbohydrates": 4.9
+      }
+    ]
+  },
+  {
+    "id": "eggs",
+    "titleRu": "Яйца",
+    "titleEn": "Eggs",
+    "aliases": [
+      "яйцо",
+      "яйца",
+      "яичко",
+      "egg",
+      "eggs",
+      "chicken egg"
+    ],
+    "variants": [
+      {
+        "name": "Яйцо куриное С0",
+        "calories": 157,
+        "protein": 12.7,
+        "fat": 11.5,
+        "carbohydrates": 0.7
+      },
+      {
+        "name": "Яйцо куриное С1",
+        "calories": 157,
+        "protein": 12.7,
+        "fat": 11.5,
+        "carbohydrates": 0.7
+      },
+      {
+        "name": "Яйцо вареное вкрутую",
+        "calories": 160,
+        "protein": 12.9,
+        "fat": 11.6,
+        "carbohydrates": 0.8
+      },
+      {
+        "name": "Яйцо вареное всмятку",
+        "calories": 159,
+        "protein": 12.8,
+        "fat": 11.6,
+        "carbohydrates": 0.8
+      }
+    ]
+  },
+  {
+    "id": "butter",
+    "titleRu": "Масло сливочное",
+    "titleEn": "Butter",
+    "aliases": [
+      "масло",
+      "масло сливочное",
+      "сливочное масло",
+      "butter",
+      "butter unsalted"
+    ],
+    "variants": [
+      {
+        "name": "Масло сливочное 82.5%",
+        "calories": 748,
+        "protein": 0.5,
+        "fat": 82.5,
+        "carbohydrates": 0.8
+      },
+      {
+        "name": "Масло сливочное 72.5%",
+        "calories": 662,
+        "protein": 0.8,
+        "fat": 72.5,
+        "carbohydrates": 1.3
+      }
+    ]
+  },
+  {
+    "id": "oil-sunflower",
+    "titleRu": "Масло подсолнечное",
+    "titleEn": "Sunflower oil",
+    "aliases": [
+      "масло подсолнечное",
+      "подсолнечное масло",
+      "масло растительное",
+      "sunflower oil",
+      "vegetable oil"
+    ],
+    "variants": [
+      {
+        "name": "Масло подсолнечное рафинированное",
+        "calories": 884,
+        "protein": 0,
+        "fat": 99.9,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Масло подсолнечное нерафинированное",
+        "calories": 884,
+        "protein": 0,
+        "fat": 99.9,
+        "carbohydrates": 0
+      }
+    ]
+  },
+  {
+    "id": "onion",
+    "titleRu": "Лук репчатый",
+    "titleEn": "Onion",
+    "aliases": [
+      "лук",
+      "лук репчатый",
+      "репчатый лук",
+      "onion",
+      "yellow onion"
+    ],
+    "variants": [
+      {
+        "name": "Лук репчатый сырой",
+        "calories": 47,
+        "protein": 1.4,
+        "fat": 0,
+        "carbohydrates": 10.4
+      },
+      {
+        "name": "Лук репчатый жареный",
+        "calories": 251,
+        "protein": 4.5,
+        "fat": 13.5,
+        "carbohydrates": 27.4
+      }
+    ]
+  },
+  {
+    "id": "carrot",
+    "titleRu": "Морковь",
+    "titleEn": "Carrot",
+    "aliases": [
+      "морковь",
+      "морковка",
+      "carrot",
+      "carrots"
+    ],
+    "variants": [
+      {
+        "name": "Морковь сырая",
+        "calories": 35,
+        "protein": 1.3,
+        "fat": 0.1,
+        "carbohydrates": 6.9
+      },
+      {
+        "name": "Морковь вареная",
+        "calories": 25,
+        "protein": 0.8,
+        "fat": 0.3,
+        "carbohydrates": 5
+      }
+    ]
+  },
+  {
+    "id": "potato",
+    "titleRu": "Картофель",
+    "titleEn": "Potato",
+    "aliases": [
+      "картофель",
+      "картошка",
+      "potato",
+      "potatoes"
+    ],
+    "variants": [
+      {
+        "name": "Картофель сырой",
+        "calories": 77,
+        "protein": 2,
+        "fat": 0.4,
+        "carbohydrates": 16.1
+      },
+      {
+        "name": "Картофель вареный",
+        "calories": 82,
+        "protein": 2,
+        "fat": 0.4,
+        "carbohydrates": 16.7
+      },
+      {
+        "name": "Картофель жареный",
+        "calories": 192,
+        "protein": 2.8,
+        "fat": 9.5,
+        "carbohydrates": 23.4
+      }
+    ]
+  },
+  {
+    "id": "tomato",
+    "titleRu": "Помидор",
+    "titleEn": "Tomato",
+    "aliases": [
+      "помидор",
+      "помидоры",
+      "томат",
+      "томаты",
+      "tomato",
+      "tomatoes"
+    ],
+    "variants": [
+      {
+        "name": "Помидор свежий",
+        "calories": 20,
+        "protein": 1.1,
+        "fat": 0.2,
+        "carbohydrates": 3.7
+      },
+      {
+        "name": "Помидор черри",
+        "calories": 15,
+        "protein": 0.8,
+        "fat": 0.2,
+        "carbohydrates": 2.8
+      }
+    ]
+  },
+  {
+    "id": "cucumber",
+    "titleRu": "Огурец",
+    "titleEn": "Cucumber",
+    "aliases": [
+      "огурец",
+      "огурцы",
+      "cucumber",
+      "cucumbers"
+    ],
+    "variants": [
+      {
+        "name": "Огурец свежий",
+        "calories": 15,
+        "protein": 0.8,
+        "fat": 0.1,
+        "carbohydrates": 2.8
+      },
+      {
+        "name": "Огурец соленый",
+        "calories": 11,
+        "protein": 0.8,
+        "fat": 0.1,
+        "carbohydrates": 1.7
+      }
+    ]
+  },
+  {
+    "id": "beef",
+    "titleRu": "Говядина",
+    "titleEn": "Beef",
+    "aliases": [
+      "говядина",
+      "мясо говядины",
+      "beef",
+      "beef meat"
+    ],
+    "variants": [
+      {
+        "name": "Говядина вырезка сырая",
+        "calories": 187,
+        "protein": 18.9,
+        "fat": 12.4,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Говядина отварная",
+        "calories": 254,
+        "protein": 25.8,
+        "fat": 16.8,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Говядина жареная",
+        "calories": 384,
+        "protein": 32.7,
+        "fat": 28.1,
+        "carbohydrates": 0
+      }
+    ]
+  },
+  {
+    "id": "pork",
+    "titleRu": "Свинина",
+    "titleEn": "Pork",
+    "aliases": [
+      "свинина",
+      "мясо свинины",
+      "pork",
+      "pork meat"
+    ],
+    "variants": [
+      {
+        "name": "Свинина вырезка сырая",
+        "calories": 142,
+        "protein": 19.4,
+        "fat": 7.1,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Свинина отварная",
+        "calories": 364,
+        "protein": 22.6,
+        "fat": 30,
+        "carbohydrates": 0
+      }
+    ]
+  },
+  {
+    "id": "rice",
+    "titleRu": "Рис",
+    "titleEn": "Rice",
+    "aliases": [
+      "рис",
+      "рисовый",
+      "rice",
+      "white rice"
+    ],
+    "variants": [
+      {
+        "name": "Рис белый сырой",
+        "calories": 365,
+        "protein": 7.5,
+        "fat": 0.6,
+        "carbohydrates": 78.9
+      },
+      {
+        "name": "Рис белый вареный",
+        "calories": 116,
+        "protein": 2.2,
+        "fat": 0.5,
+        "carbohydrates": 24.9
+      },
+      {
+        "name": "Рис бурый",
+        "calories": 337,
+        "protein": 7.4,
+        "fat": 1.8,
+        "carbohydrates": 72.9
+      }
+    ]
+  },
+  {
+    "id": "pasta",
+    "titleRu": "Макароны",
+    "titleEn": "Pasta",
+    "aliases": [
+      "макароны",
+      "макаронные изделия",
+      "паста",
+      "pasta",
+      "spaghetti",
+      "macaroni"
+    ],
+    "variants": [
+      {
+        "name": "Макароны из твердых сортов сырые",
+        "calories": 344,
+        "protein": 11.5,
+        "fat": 1.1,
+        "carbohydrates": 71.5
+      },
+      {
+        "name": "Макароны отварные",
+        "calories": 112,
+        "protein": 3.5,
+        "fat": 0.4,
+        "carbohydrates": 23.2
+      }
+    ]
+  },
+  {
+    "id": "cheese",
+    "titleRu": "Сыр",
+    "titleEn": "Cheese",
+    "aliases": [
+      "сыр",
+      "cheese",
+      "твердый сыр"
+    ],
+    "variants": [
+      {
+        "name": "Сыр твердый 45%",
+        "calories": 363,
+        "protein": 25,
+        "fat": 30,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Сыр твердый 50%",
+        "calories": 363,
+        "protein": 24,
+        "fat": 30.5,
+        "carbohydrates": 0
+      },
+      {
+        "name": "Сыр моцарелла",
+        "calories": 240,
+        "protein": 18,
+        "fat": 18,
+        "carbohydrates": 2.2
+      }
+    ]
+  }
+]
